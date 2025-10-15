@@ -10,11 +10,15 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosdev15&bg_color=000000&color=6900B5&line=6900B5&point=6900B5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <span style="border: 3 px solid #8A2BE2; display: inline-block; padding: 4  px; border-radius: 8 px;">
+    <a href="https://www.instagram.com/marcosmv1505/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-262828?style=for-the-badge&logo=instagram&logoColor=black">
+    </a>
+  </span>
+</p>
 
-<div align="center">  
-<a href="https://www.instagram.com/marcosmv1505/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%c2c9cc?style=for-the-badge&logo=instagram&logoColor=black"</a>
-</div> 
- 
+
 ### Main skills:
 
 ### Tools:
